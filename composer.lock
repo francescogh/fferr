@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "9cd87f007dcd9d8cf647fb718b0384f8",
+    "content-hash": "99176f4637b98ea7d5de9b0db6eff024",
     "packages": [
         {
             "name": "bower-asset/bootstrap",
@@ -65,6 +65,21 @@
             "license": [
                 "MIT"
             ]
+        },
+        {
+            "name": "bower-asset/less",
+            "version": "v3.13.0",
+            "source": {
+                "type": "git",
+                "url": "git@github.com:less/less.git",
+                "reference": "ca2cfe17e540ce20ac432f5231f701a27b239599"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/less/less/zipball/ca2cfe17e540ce20ac432f5231f701a27b239599",
+                "reference": "ca2cfe17e540ce20ac432f5231f701a27b239599"
+            },
+            "type": "bower-asset"
         },
         {
             "name": "bower-asset/punycode",
